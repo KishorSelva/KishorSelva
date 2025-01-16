@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm currently a sophomore studying computer science and engineering at my university. I am passionate about creating applications to solve real world problems and I am always learning new things.
+I'm currently a 3rd year studying computer science and engineering at my university. I am passionate about creating applications to solve real world problems and I am always learning new things.
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [kishorselvakumar04@gmail.com](mailto:kishorselvakumar04@gmail.com)
